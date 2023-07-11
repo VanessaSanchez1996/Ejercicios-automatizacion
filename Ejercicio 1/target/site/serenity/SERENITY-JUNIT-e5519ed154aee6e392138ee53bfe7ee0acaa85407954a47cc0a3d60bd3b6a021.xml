@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Realizar compras de articulos" skipped="0" tests="1" time="73.54" timestamp="2023-07-11 04:42:39"><testcase name="Agregar articulo al carrito de compras"><error message="The following error occurred: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:17915&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-EGEQEE8', ip: '192.168.27.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_361'&#10;Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.WebDriverException">The following error occurred: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:17915
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EGEQEE8', ip: '192.168.27.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_361'
+Driver info: driver.version: RemoteWebDriver</error><system-err>The following error occurred: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:17915
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EGEQEE8', ip: '192.168.27.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_361'
+Driver info: driver.version: RemoteWebDriver&#13;
+tasks.Login.performAs(Login.java:23)&#13;
+stepdefinitions.RetoSteps.elIngresaSuUserYPassword(RetoSteps.java:44)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
