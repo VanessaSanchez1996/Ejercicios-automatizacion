@@ -1,6 +1,6 @@
----------------------------------------------------------------
-| Un readme debe contener como mínimo la siguiente información |
----------------------------------------------------------------
+--------------------------------
+| Instrucciones ejercicio 2  |
+--------------------------------
 
 1. Instalacion de componentes
 	- Maquina local con el sistema operativo Windows 10
@@ -24,5 +24,6 @@
 	- Validar que el JDK 1.8 este correctamente instalado y configurado.
 	-Previamente antes de configurar los escenarios de pruebas, se validaron los servicios a nivel de Postman para configurar correctamente a nivel de IDE IntelliJ.
 
-Referencia: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-Recordar que un readme correcto debe tener la extensión .md y debe estar dentro del proyecto.
+
+
+
